@@ -145,7 +145,8 @@ kubeadm token create --print-join-command
 Once all steps are done run
 kubectl get nodes
 
-<img width="734" height="138" alt="image" src="https://github.com/user-attachments/assets/355768f6-d4b3-48d9-b43e-2f56ae7952ef" />
+<img width="734" height="138" alt="image" src="https://github.com/user-attachments/assets/cd1ea9cb-0ad3-4562-82f9-2f377961d441" />
+
 
 # run in worker nodes
 mkdir -p $HOME/.kube
